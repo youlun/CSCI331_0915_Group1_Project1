@@ -4,12 +4,12 @@ This repository contains the group work for Project1
 The group has collectively agreed on using the NorthWinds database.
 
 ## Members
-Giorgos Stefanis
-Seeram Govindan
-Ridhwan Ibrahim
-Michael Cipriani
-Hasan Husseini
-Youlun Wang
+- Giorgos Stefanis
+- Seeram Govindan
+- Ridhwan Ibrahim
+- Michael Cipriani
+- Hasan Husseini
+- Youlun Wang
 
 ## Contents
 Documents → Gantt chart and To-do list
