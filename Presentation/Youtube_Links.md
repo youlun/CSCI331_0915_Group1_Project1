@@ -1,6 +1,6 @@
 Group Members | Youtube Link
 ---
-Youlun Wang, Hasan Husseini | youtube.com/link
+Youlun Wang, Hasan Husseini | https://youtu.be/Ika2lIxOgcA
 ---
 Seeram G, Michael C | https://youtu.be/9FmSstKPRhU
 ---
