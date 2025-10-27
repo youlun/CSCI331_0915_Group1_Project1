@@ -1,4 +1,4 @@
-# CSCI331_Group1_PROJECT1
+# CSCI331_0915_Group1_Project1
 - SQL Noir using staged queries to solve a crime
 - This repository contains the group work for Project1
 - The group has collectively agreed on using the NorthWinds database.
